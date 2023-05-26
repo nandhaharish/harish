@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main()
+{
+    float h1=15.0;
+    float h2=19.0;
+    
+    
+    if (h1>h2)
+    
+        printf("h1 is taller");
+    
+    else
+    
+        printf("h2 is taller");
+    
+    
+    
+    return 0;
+}
